@@ -1,0 +1,18 @@
+#cmdSubmit {
+    background-color:darkgreen;
+    color:white;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+}
+
+#btnReset {
+    background-color:darkred;
+    color:white;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+}
+
+.common{
+    font-family:'Segoe UI';
+    font-size: 18px;
+}
